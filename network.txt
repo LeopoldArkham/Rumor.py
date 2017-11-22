@@ -1,0 +1,4 @@
+Alice : Bob, David, Eve
+Bob : Alice, David
+David : Bob, Alice
+Eve : Alice
